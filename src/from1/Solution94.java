@@ -1,4 +1,4 @@
-package start1;
+package from1;
 
 import util.TreeNode;
 
