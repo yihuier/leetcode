@@ -39,10 +39,10 @@ IgnoreLexer.java~
 
 
 */target
-*.class
 target/
 .project
 .settings/
 .classpath
 
 /verification
+*/local
